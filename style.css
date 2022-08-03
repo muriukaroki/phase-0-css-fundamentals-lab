@@ -3,3 +3,16 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+  text-align: center;
+}
+a {
+  text-align: justify;
+  align-items: auto;
+}
+img {
+  width: 300px;
+  height: 300px;
+  text-align: center;
+}
